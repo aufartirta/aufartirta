@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I am Aufar!👋
 
 <!--
 **aufartirta/aufartirta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a Data Analyst with a background in health informatics, life science, and medicine.
+- 🔭 I am looking for an opportunity to leverage and contribute my skills in data-driven decision-making processes to create meaningful impacts.
+- 📫 How to reach me: [Email](mailto:aufar.tirta.f@gmail.com) | [LinkedIn](https://www.linkedin.com/in/aufartirta/) | [Portfolio](https://www.datascienceportfol.io/aufartirta)
